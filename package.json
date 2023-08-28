@@ -1,0 +1,19 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "poc to do forking",
+  "source": "src/index.html",
+  "author": "Deepan K",
+  "license": "ISC",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  },
+  "dependencies": {
+    "angular": "^1.8.5",
+    "bb-calculator": "^1.3.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
