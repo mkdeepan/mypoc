@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "poc to do forking",
   "source": "src/index.html",
-  "author": "Deepan K",
+  "author": "Deepan Kalyanasundaram",
   "license": "ISC",
   "scripts": {
     "start": "parcel src/index.html"
